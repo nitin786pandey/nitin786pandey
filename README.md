@@ -6,6 +6,7 @@ I work at the intersection of product, data, and AI — prototyping ideas fast, 
 
 ## Projects
 
+- **[PM Chief of Staff](https://github.com/nitin786pandey/pm-chief-of-staff)** — AI operating system for PMs — scheduled briefings, persistent memory, and connected tools via Claude + MCP
 - **[Companion Reader](https://github.com/nitin786pandey/companion-reader)** — Web reader for research papers with definitions, concept maps, and AI Q&A · [Live](https://companion-reader.vercel.app)
 - **[Jarvis OS](https://github.com/nitin786pandey/the-jarvis-os)** — Autonomous daily planner with LLM-generated task lists, Telegram bot, and PWA · [Live](https://the-jarvis-os.vercel.app)
 - **[Slack → Jira](https://github.com/nitin786pandey/slackthreads-jiracomments)** — Syncs Slack thread replies into Jira as internal comments, with noise filtering
